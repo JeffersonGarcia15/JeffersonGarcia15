@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects involving these topics
 - 🤔 I’m looking for help with Algorithms
 - 💬 Ask me about Math, Physics and basic-intermediate JavaScript
-- 📫 How to reach me: [Gmail] jeffersongarcia1599@gmail.com
+- 📫 How to reach me: [Email] jeffersongarcia1599@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I tend to be very competitive
 
