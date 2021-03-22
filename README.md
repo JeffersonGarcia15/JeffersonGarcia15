@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I tend to be very competitive
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonGarcia15&count_private=true&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonGarcia15&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonGarcia15)](https://github.com/JeffersonGarcia15/github-readme-stats)
 
