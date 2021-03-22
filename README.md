@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I tend to be very competitive
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonGarcia15&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonGarcia15&count_private=true&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonGarcia15&show_icons=true&theme=radical)
 
