@@ -2,9 +2,6 @@
 
 ### Here is what I'm working on! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on being a better programmer to do AstroPhysics research in the future
 - 🌱 I’m currently learning JavaScript, AJAX, Data Structures and Algorithms
 - 👯 I’m looking to collaborate on projects involving these topics
