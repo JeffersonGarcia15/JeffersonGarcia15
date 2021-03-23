@@ -1,4 +1,4 @@
-![alt text](164337153_276020244030048_3153008649284043881_n.png)
+![alt text](https://ibb.co/tp7z5rr)
 
 ### Here is what I'm working on! 👋
 
