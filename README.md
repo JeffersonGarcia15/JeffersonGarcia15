@@ -1,4 +1,4 @@
-![alt text](https://ibb.co/tp7z5rr)
+![Greetings](https://ibb.co/tp7z5rr)
 
 ### Here is what I'm working on! 👋
 
