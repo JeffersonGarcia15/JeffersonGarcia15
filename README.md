@@ -10,6 +10,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I tend to be very competitive
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonGarcia15&count_private=true&show_icons=true&theme=radical)<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonGarcia15&langs_count=8)](https://github.com/JeffersonGarcia15/github-readme-stats)
