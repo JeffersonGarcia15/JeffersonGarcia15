@@ -21,6 +21,9 @@
   <a href='https://www.docker.com'>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   </a>
+    <a href='https://developer.mozilla.org/en-US/docs/Glossary/HTML5'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/html5.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
+  </a>
 
 
 </p>
