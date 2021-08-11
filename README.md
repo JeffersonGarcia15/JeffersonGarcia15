@@ -24,6 +24,33 @@
     <a href='https://developer.mozilla.org/en-US/docs/Glossary/HTML5'>
   <img src="https://mylovetable.s3.us-east-2.amazonaws.com/html5.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
   </a>
+      <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/css.png" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
+  </a>
+        <a href='https://nodejs.org/en/'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/node.png" alt="Node" height="40" style="vertical-align:top; margin:4px">
+  </a>
+          <a href='https://mochajs.org/api/'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/mocha.svg" alt="Mocha" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href='https://www.chaijs.com'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/chai.png" alt="Chai" height="40" style="vertical-align:top; margin:4px">
+  </a>
+    <a href='https://expressjs.com'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/express.png" alt="Express" height="40" style="vertical-align:top; margin:4px">
+  </a>
+      <a href='https://material-ui.com'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/material.png" alt="Material Ui" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href='https://id.heroku.com/login'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/heroku.png" alt="Heroku" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href='https://aws.amazon.com/account/sign-up'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/aws.png" alt="AWSS3" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href='https://flask.palletsprojects.com/en/2.0.x/'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
+  </a>
 
 
 </p>
