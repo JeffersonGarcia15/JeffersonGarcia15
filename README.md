@@ -8,7 +8,7 @@
 - 💬 Ask me about Math, Physics and software engieering questions
 - 📫 How to reach me: [jeffersongarcia1599@gmail.com](jeffersongarcia1599@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ All my projects are available at [](https://jefferson-portfolio.herokuapp.com)
+- ⚡ All my projects are available at: [portfolio](https://jefferson-portfolio.herokuapp.com)
 
 ## 🧰 Languages and Tools:
 <p align="center">
