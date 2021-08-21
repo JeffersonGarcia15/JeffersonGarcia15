@@ -2,6 +2,7 @@
 
 ### Here is what I'm working on! 👋
 
+
 - 🔭 I’m currently working on finding a job as a software engineer. [LinkedIn](https://www.linkedin.com/in/jefferson-lopez-garcia/)
 - 🌱 I’m currently learning better ways to improve the run time of my solutions of DS&A questions
 - 👯 I’m looking to collaborate on projects involving Python and JavaScript as backend and React / Redux as frontend.
