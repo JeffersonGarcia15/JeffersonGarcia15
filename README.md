@@ -51,7 +51,9 @@
   <a href='https://flask.palletsprojects.com/en/2.0.x/'>
   <img src="https://mylovetable.s3.us-east-2.amazonaws.com/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
   </a>
-
+  <a href='https://www.docker.com'>
+  <img src="https://astrogram.s3.us-east-2.amazonaws.com/Docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+  </a>
 
 </p>
 
