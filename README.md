@@ -1,6 +1,6 @@
 <a href="https://ibb.co/tp7z5rr"><img src="https://i.ibb.co/4R62xrr/164337153-276020244030048-3153008649284043881-n.png" alt="164337153-276020244030048-3153008649284043881-n" border="0"></a> 
 
-### Here is what I'm working on! 👋
+
 ![](https://visitor-badge.glitch.me/badge?page_id=JeffersonGarcia15.JeffersonGarcia15)
 
 ```py
@@ -18,6 +18,7 @@ class SoftwareEngineer:
 jeff = SoftwareEngineer()
 jeff.say_hi()
 ```
+### Here is what I'm working on! 👋
 
 - 🔭 I’m currently working on finding a job as a software engineer. [LinkedIn](https://www.linkedin.com/in/jefferson-lopez-garcia/)
 - 🌱 I’m currently learning better ways to improve the run time of my solutions of DS&A questions
