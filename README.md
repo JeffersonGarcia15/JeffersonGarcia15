@@ -27,7 +27,7 @@ jeff.say_hi()
 - 😄 Pronouns: He/Him
 - ⚡ All my projects are available at: [portfolio](https://jefferson-portfolio.herokuapp.com)
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
   
   <hr/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeffersonGarcia15)](https://git.io/streak-stats)
