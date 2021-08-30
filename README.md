@@ -3,6 +3,22 @@
 ### Here is what I'm working on! 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=JeffersonGarcia15.JeffersonGarcia15)
 
+```py
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Jefferson Lopez Garcia"
+        self.role = "Software Engineer"
+        self.language_spoken = ["es_ELSL", "en_US", "pt_BR"]
+
+    def say_hi(self):
+        print("Hope you find my work to be interesting.")
+
+
+jeff = SoftwareEngineer()
+jeff.say_hi()
+```
+
 - 🔭 I’m currently working on finding a job as a software engineer. [LinkedIn](https://www.linkedin.com/in/jefferson-lopez-garcia/)
 - 🌱 I’m currently learning better ways to improve the run time of my solutions of DS&A questions
 - 👯 I’m looking to collaborate on projects involving Python and JavaScript as backend and React / Redux as frontend.
@@ -65,4 +81,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonGarcia15&layout=compact&langs_count=8)](https://github.com/JeffersonGarcia15/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeffersonGarcia&v=2)](https://github.com/anuraghazra/github-readme-stats)
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JeffersonGarcia&hide_title=true&hide_border=true&langs_count=5)
