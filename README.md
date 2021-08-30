@@ -30,7 +30,8 @@ jeff.say_hi()
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   <hr/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeffersonGarcia15)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeffersonGarcia15)](https://git.io/streak-stats)
+
 
   
 ## 🧰 Languages and Tools:
