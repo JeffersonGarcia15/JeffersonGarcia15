@@ -21,7 +21,6 @@ jeff.say_hi()
 ### Here is what I'm working on! 👋
 
 - 🔭 I’m currently working on finding a job as a software engineer. [LinkedIn](https://www.linkedin.com/in/jefferson-lopez-garcia/)
-- 🌱 I’m currently learning better ways to improve the run time of my solutions of DS&A questions
 - 📫 How to reach me: [jeffersongarcia1599@gmail.com](jeffersongarcia1599@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ All my projects are available at: [portfolio](https://jefferson-portfolio.herokuapp.com)
