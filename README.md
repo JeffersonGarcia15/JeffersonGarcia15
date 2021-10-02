@@ -38,14 +38,12 @@ func (u *User) Greetings() string {
 		u.FirstName, u.LastName, u.Location, u.PLanguages, u.Databases, u.FrameworksLibraries)
 }
 
-type Player struct {
+type Jefferson struct {
 	User
-	GameId int
 }
 
 func main() {
-	p := Player{}
-	p.Id = 27
+	p := Jefferson{}
 	p.FirstName = "Jefferson"
 	p.LastName = "Lopez Garcia"
 	p.Location = "Texas"
