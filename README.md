@@ -38,19 +38,16 @@ func (u *User) Greetings() string {
 		u.FirstName, u.LastName, u.Location, u.PLanguages, u.Databases, u.FrameworksLibraries)
 }
 
-type Jefferson struct {
-	User
-}
 
 func main() {
-	p := Jefferson{}
-	p.FirstName = "Jefferson"
-	p.LastName = "Lopez Garcia"
-	p.Location = "Texas"
-	p.PLanguages = append(p.PLanguages, "Python", "JavaScript", "Golang")
-	p.Databases = append(p.Databases, "PostgreSQL", "MongoDB")
-	p.FrameworksLibraries = append(p.FrameworksLibraries, "React", "Redux", "NextJS", "Express", "Flask", "Django")
-	fmt.Println(p.Greetings())
+	jeff := User{}
+	jeff.FirstName = "Jefferson"
+	jeff.LastName = "Lopez Garcia"
+	jeff.Location = "Texas"
+	jeff.PLanguages = append(jeff.PLanguages, "Python", "JavaScript", "Golang")
+	jeff.Databases = append(jeff.Databases, "PostgreSQL", "MongoDB")
+	jeff.FrameworksLibraries = append(jeff.FrameworksLibraries, "React", "Redux", "NextJS", "Express", "Flask", "Django")
+	fmt.Println(jeff.Greetings())
 }
 ```
 ### Here is what I'm working on! 👋
