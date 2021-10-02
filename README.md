@@ -89,6 +89,15 @@ jeff.say_hi()
       <a href='https://www.postman.com'>
   <img src="https://mylovetable.s3.us-east-2.amazonaws.com/postman.png" alt="Postman" height="40" style="vertical-align:top; margin:4px">
   </a>
+          <a href='https://pugjs.org/api/getting-started.html'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/pug.png" alt="Pug" height="40" style="vertical-align:top; margin:4px">
+  </a>
+          <a href='https://www.postgresql.org'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/sql.png" alt=SQL" height="40" style="vertical-align:top; margin:4px">
+  </a>
+          <a href='https://www.postgresql.org'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/psql.jpg" alt="PSQL" height="40" style="vertical-align:top; margin:4px">
+  </a>
 
 </p>
 
