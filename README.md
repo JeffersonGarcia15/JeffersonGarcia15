@@ -24,13 +24,13 @@ package main
 import "fmt"
 
 type User struct {
-	Id              int
+	Id              	int
 	FirstName		string
 	LastName		string
 	Location 		string
 	PLanguages 		[]string
 	Databases 		[]string
-	FrameworksLibraries []string
+	FrameworksLibraries 	[]string
 }
 
 func (u *User) Greetings() string {
