@@ -22,6 +22,38 @@ jeff.say_hi()
 package main
 
 import "fmt"
+
+type User struct {
+	Id              int
+	FirstName		string
+	LastName		string
+	Location 		string
+	PLanguages 		[]string
+	Databases 		[]string
+	FrameworksLibraries []string
+}
+
+func (u *User) Greetings() string {
+	return fmt.Sprintf("Hi, I am %s %s, from %s. My top programming languages are %s, my most used databases are %s, and my most used frameworks and libraries are %s",
+		u.FirstName, u.LastName, u.Location, u.PLanguages, u.Databases, u.FrameworksLibraries)
+}
+
+type Player struct {
+	User
+	GameId int
+}
+
+func main() {
+	p := Player{}
+	p.Id = 27
+	p.FirstName = "Jefferson"
+	p.LastName = "Lopez Garcia"
+	p.Location = "Texas"
+	p.PLanguages = append(p.PLanguages, "Python", "JavaScript", "Golang")
+	p.Databases = append(p.Databases, "PostgreSQL", "MongoDB")
+	p.FrameworksLibraries = append(p.FrameworksLibraries, "React", "Redux", "NextJS", "Express", "Flask", "Django")
+	fmt.Println(p.Greetings())
+}
 ```
 ### Here is what I'm working on! 👋
 
