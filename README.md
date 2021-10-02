@@ -74,6 +74,21 @@ jeff.say_hi()
   <a href='https://www.docker.com'>
   <img src="https://astrogram.s3.us-east-2.amazonaws.com/Docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
   </a>
+      <a href='https://reactjs.org'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/1280px-React-icon.svg.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+  </a>
+      <a href='https://nextjs.org'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/next.png" alt="NextJS" height="40" style="vertical-align:top; margin:4px">
+  </a>
+      <a href='https://redux.js.org'>
+  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/redux.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
+  </a>
+      <a href='https://www.docker.com'>
+  <img src="https://astrogram.s3.us-east-2.amazonaws.com/Docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+  </a>
+      <a href='https://www.docker.com'>
+  <img src="https://astrogram.s3.us-east-2.amazonaws.com/Docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+  </a>
 
 </p>
 
