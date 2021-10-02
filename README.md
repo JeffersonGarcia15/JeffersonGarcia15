@@ -18,6 +18,11 @@ class SoftwareEngineer:
 jeff = SoftwareEngineer()
 jeff.say_hi()
 ```
+```go
+package main
+
+import "fmt"
+```
 ### Here is what I'm working on! 👋
 
 - 🔭 I’m currently working on finding a job as a software engineer, and a Twitter clone using Golang and mongodb with React. [LinkedIn](https://www.linkedin.com/in/jefferson-lopez-garcia/)
