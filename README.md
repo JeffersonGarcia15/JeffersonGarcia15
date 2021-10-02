@@ -20,7 +20,7 @@ jeff.say_hi()
 ```
 ### Here is what I'm working on! 👋
 
-- 🔭 I’m currently working on finding a job as a software engineer. [LinkedIn](https://www.linkedin.com/in/jefferson-lopez-garcia/)
+- 🔭 I’m currently working on finding a job as a software engineer, and a Twitter clone using Golang and mongodb with React. [LinkedIn](https://www.linkedin.com/in/jefferson-lopez-garcia/)
 - 📫 How to reach me: [jeffersongarcia1599@gmail.com](jeffersongarcia1599@gmail.com)
 - ⚡ All my projects are available at: [portfolio](https://jefferson-portfolio.herokuapp.com)
 
