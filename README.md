@@ -134,7 +134,7 @@ func main() {
   <img src="https://mylovetable.s3.us-east-2.amazonaws.com/mongo.png" alt="Mongo" height="40" style="vertical-align:top; margin:4px">
   </a>
                                                                                                                                             <a href='https://golangdocs.com'>
-  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/go.jpg" alt="Golang" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://universejf.s3.us-east-2.amazonaws.com/go.png" alt="Golang" height="40" style="vertical-align:top; margin:4px">
   </a>
 
 </p>
