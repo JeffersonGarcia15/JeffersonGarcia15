@@ -116,7 +116,7 @@ func main() {
   <img src="https://mylovetable.s3.us-east-2.amazonaws.com/redux.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
   </a>
       <a href='https://www.djangoproject.com'>
-  <img src="https://mylovetable.s3.us-east-2.amazonaws.com/django.png" alt="Django" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://universejf.s3.us-east-2.amazonaws.com/django.jpg" alt="Django" height="40" style="vertical-align:top; margin:4px">
   </a>
       <a href='https://www.postman.com'>
   <img src="https://mylovetable.s3.us-east-2.amazonaws.com/postman.png" alt="Postman" height="40" style="vertical-align:top; margin:4px">
