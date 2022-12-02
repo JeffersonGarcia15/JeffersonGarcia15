@@ -54,7 +54,7 @@ func main() {
 
 - 🔭 I’m currently working on finding a job as a software engineer, and a Twitter clone using Golang and mongodb with React. [LinkedIn](https://www.linkedin.com/in/jefferson-lopez-garcia/)
 - 📫 How to reach me: [jeffersongarcia1599@gmail.com](jeffersongarcia1599@gmail.com)
-- ⚡ All my projects are available at: [portfolio]([https://jefferson-portfolio.herokuapp.com](https://jefferson-portfolio.onrender.com))
+- ⚡ All my projects are available at: [portfolio](https://jefferson-portfolio.onrender.com)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
   
